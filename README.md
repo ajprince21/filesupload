@@ -22,6 +22,6 @@ This project is a file upload application that allows users to register, log in,
 2.  **Install Project Dependencies:
     ```bash
     npm install
-## Demo
 
-[Download and watch the demo video](./demo.mov)
+## Demo
+Watch the demo on [YouTube](https://www.youtube.com/watch?v=KZ0uETcprD0).
